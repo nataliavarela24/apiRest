@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class Regiones extends Migration
+class Provincias extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,12 @@ class Regiones extends Migration
      */
     public function up()
     {
-        Schema::create('regiones', function (Blueprint $table) {
+        Schema::create('provincias', function (Blueprint $table) {
             $table->engine = 'InnoDB';
-            $table->increments('idRegion');
-            $table->string('nombreregion',100);
+            $table->increments('idProvincia');
+            $table->string('nombreprovincia',100);
+            $table->integer('idRegion')->unsigned(); 
+            $table->foreign('idRegion')->references('idRegion')->on('regiones');
             $table->timestamps();
         });
     }
@@ -28,6 +30,6 @@ class Regiones extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('regiones');
+        Schema::dropIfExists('provincias');
     }
 }

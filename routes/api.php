@@ -19,3 +19,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::ApiResource('regiones', 'App\Http\Controllers\RegionController');
+Route::ApiResource('provincias', 'App\Http\Controllers\ProvinciaController');
