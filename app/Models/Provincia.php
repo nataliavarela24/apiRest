@@ -7,14 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Provincia extends Model
 {
-    protected $table = 'provincias';
-
-    protected $fillable = [
-
-        'idprovincia',
-        'nombreprovincia',
-        'idRegion'
-
-    ];
+    protected $guarded = [];
     use HasFactory;
 }

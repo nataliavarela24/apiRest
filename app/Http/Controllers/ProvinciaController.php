@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 
 class ProvinciaController extends Controller
 {
-    //GET listar registro
     public function index()
     {
        return Provincia::all();

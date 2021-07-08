@@ -6,8 +6,6 @@ use Illuminate\Http\Request;
 
 class RegionController extends Controller
 {
-    
-    //GET listar registro
     public function index()
     {
        return Region::all();
