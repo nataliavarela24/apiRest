@@ -20,3 +20,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('regiones', 'App\Http\Controllers\RegionController@index');
 Route::get('provincias', 'App\Http\Controllers\ProvinciaController@index');
+Route::get('ciudades', 'App\Http\Controllers\CiudadController@index');
+Route::get('calles', 'App\Http\Controllers\CalleController@index');

@@ -1,0 +1,334 @@
+[
+  {
+    "idCalle": 1,
+    "nombrecalle": "Esmeralda"
+  },
+  {
+    "idCalle": 2,
+    "nombrecalle": "SotoMayor"
+  },
+  {
+    "idCalle": 3,
+    "nombrecalle": "Pasaje Dos"
+  },
+  {
+    "idCalle": 4,
+    "nombrecalle": "Libertad"
+  },
+  {
+    "idCalle": 5,
+    "nombrecalle": "Circunvalación"
+  },
+  {
+    "idCalle": 6,
+    "nombrecalle": "Calle Dos"
+  },
+  {
+    "idCalle": 7,
+    "nombrecalle": "Calle A"
+  },
+  {
+    "idCalle": 8,
+    "nombrecalle": "21 De Mayo"
+  },
+  {
+    "idCalle": 9,
+    "nombrecalle": "Tarapacá"
+  },
+  {
+    "idCalle": 10,
+    "nombrecalle": "Baquedano"
+  },
+  {
+    "idCalle": 11,
+    "nombrecalle": "Circunvalación"
+  },
+  {
+    "idCalle": 12,
+    "nombrecalle": "Caracoles"
+  },
+  {
+    "idCalle": 13,
+    "nombrecalle": "Arturo Prat"
+  },
+  {
+    "idCalle": 14,
+    "nombrecalle": "Riquelme"
+  },
+  {
+    "idCalle": 15,
+    "nombrecalle": "Balmaceda"
+  },
+  {
+    "idCalle": 16,
+    "nombrecalle": "Atacama"
+  },
+  {
+    "idCalle": 17,
+    "nombrecalle": "Antofagasta"
+  },
+  {
+    "idCalle": 18,
+    "nombrecalle": "Norte"
+  },
+  {
+    "idCalle": 19,
+    "nombrecalle": "Lautaro"
+  },
+  {
+    "idCalle": 20,
+    "nombrecalle": "Costanera"
+  },
+  {
+    "idCalle": 21,
+    "nombrecalle": "Chorrillos"
+  },
+  {
+    "idCalle": 22,
+    "nombrecalle": "Gabriela Mistral"
+  },
+  {
+    "idCalle": 23,
+    "nombrecalle": "Chañaral"
+  },
+  {
+    "idCalle": 24,
+    "nombrecalle": "Diego de Almegro"
+  },
+  {
+    "idCalle": 25,
+    "nombrecalle": "Caupolicán"
+  },
+  {
+    "idCalle": 26,
+    "nombrecalle": "Las Rosas"
+  },
+  {
+    "idCalle": 27,
+    "nombrecalle": "Maipú"
+  },
+  {
+    "idCalle": 28,
+    "nombrecalle": "Luis Cruz Martínez"
+  },
+  {
+    "idCalle": 29,
+    "nombrecalle": "Los Aromos"
+  },
+  {
+    "idCalle": 30,
+    "nombrecalle": "Camilo Henríquez"
+  },
+  {
+    "idCalle": 31,
+    "nombrecalle": "Los Copihues"
+  },
+  {
+    "idCalle": 32,
+    "nombrecalle": "Los Alerces"
+  },
+  {
+    "idCalle": 33,
+    "nombrecalle": "Manuel Rodríguez"
+  },
+  {
+    "idCalle": 34,
+    "nombrecalle": "Central"
+  },
+  {
+    "idCalle": 35,
+    "nombrecalle": "Diego Portales"
+  },
+  {
+    "idCalle": 36,
+    "nombrecalle": "Calle 1"
+  },
+  {
+    "idCalle": 37,
+    "nombrecalle": "Miraflores"
+  },
+  {
+    "idCalle": 38,
+    "nombrecalle": "Bernardo o'Higgins"
+  },
+  {
+    "idCalle": 39,
+    "nombrecalle": "Los Olivos"
+  },
+  {
+    "idCalle": 40,
+    "nombrecalle": "Los Copihues"
+  },
+  {
+    "idCalle": 41,
+    "nombrecalle": "San Martin"
+  },
+  {
+    "idCalle": 42,
+    "nombrecalle": "Galvarino"
+  },
+  {
+    "idCalle": 43,
+    "nombrecalle": "Pedro Aguierre Cerda"
+  },
+  {
+    "idCalle": 44,
+    "nombrecalle": "Los Notros"
+  },
+  {
+    "idCalle": 45,
+    "nombrecalle": "Fresia"
+  },
+  {
+    "idCalle": 46,
+    "nombrecalle": "Los Robles"
+  },
+  {
+    "idCalle": 47,
+    "nombrecalle": "Los Canelos"
+  },
+  {
+    "idCalle": 48,
+    "nombrecalle": "Pedro Montt"
+  },
+  {
+    "idCalle": 49,
+    "nombrecalle": "Las Rosas"
+  },
+  {
+    "idCalle": 50,
+    "nombrecalle": "Anibal Pinto"
+  },
+  {
+    "idCalle": 51,
+    "nombrecalle": "Los Ulmos"
+  },
+  {
+    "idCalle": 52,
+    "nombrecalle": "Eusebio Lillo"
+  },
+  {
+    "idCalle": 53,
+    "nombrecalle": "Almirante Simpson"
+  },
+  {
+    "idCalle": 54,
+    "nombrecalle": "El Divisadero"
+  },
+  {
+    "idCalle": 55,
+    "nombrecalle": "Carlos Condell"
+  },
+  {
+    "idCalle": 56,
+    "nombrecalle": "Carrera"
+  },
+  {
+    "idCalle": 57,
+    "nombrecalle": "Chiloé"
+  },
+  {
+    "idCalle": 58,
+    "nombrecalle": "Carlos Condell"
+  },
+  {
+    "idCalle": 59,
+    "nombrecalle": "Cabo de Hornos"
+  },
+  {
+    "idCalle": 60,
+    "nombrecalle": "Las Lengas"
+  },
+  {
+    "idCalle": 61,
+    "nombrecalle": "Ignacio Carrera Pinto"
+  },
+  {
+    "idCalle": 62,
+    "nombrecalle": "Hernando de Magallanes"
+  },
+  {
+    "idCalle": 63,
+    "nombrecalle": "Los Laureles"
+  },
+  {
+    "idCalle": 64,
+    "nombrecalle": "Los Lingues"
+  },
+  {
+    "idCalle": 65,
+    "nombrecalle": "Los Maitenes"
+  },
+  {
+    "idCalle": 66,
+    "nombrecalle": "Los Canelos"
+  },
+  {
+    "idCalle": 67,
+    "nombrecalle": "Alejandro Azolas"
+  },
+  {
+    "idCalle": 68,
+    "nombrecalle": "Andalien"
+  },
+  {
+    "idCalle": 69,
+    "nombrecalle": "Antártica"
+  },
+  {
+    "idCalle": 70,
+    "nombrecalle": "Capitan Ávalos"
+  },
+  {
+    "idCalle": 71,
+    "nombrecalle": "Buena Esperanza"
+  },
+  {
+    "idCalle": 72,
+    "nombrecalle": "Barros Arana"
+  },
+  {
+    "idCalle": 73,
+    "nombrecalle": "Alcalde Edmundo Florez"
+  },
+  {
+    "idCalle": 74,
+    "nombrecalle": "Argentina"
+  },
+  {
+    "idCalle": 75,
+    "nombrecalle": "Sargento Aldea"
+  },
+  {
+    "idCalle": 76,
+    "nombrecalle": "Independencia"
+  },
+  {
+    "idCalle": 77,
+    "nombrecalle": "O'Higgins"
+  },
+  {
+    "idCalle": 78,
+    "nombrecalle": "Pasaje Tres"
+  },
+  {
+    "idCalle": 79,
+    "nombrecalle": "Pasaje Cinco"
+  },
+  {
+    "idCalle": 80,
+    "nombrecalle": "Pasaje 4"
+  },
+  {
+    "idCalle": 81,
+    "nombrecalle": "Las Acacias"
+  },
+  {
+    "idCalle": 82,
+    "nombrecalle": "Catedral"
+  },
+  {
+    "idCalle": 83,
+    "nombrecalle": "Chucre Manzur"
+  }
+]
