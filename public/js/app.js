@@ -1988,7 +1988,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
 
 var Select = function Select() {
-  var _useState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(),
+  var _useState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)([]),
       _useState2 = _slicedToArray(_useState, 2),
       validar = _useState2[0],
       setValidar = _useState2[1];
@@ -1998,16 +1998,17 @@ var Select = function Select() {
   }, []);
 
   var updateRegion = function updateRegion() {
-    (0,_helpers_getRegiones__WEBPACK_IMPORTED_MODULE_1__.default)().then(function (newRegiones) {
-      setValidar(newRegiones);
+    (0,_helpers_getRegiones__WEBPACK_IMPORTED_MODULE_1__.default)().then(function (newregiones) {
+      setValidar(newregiones);
     });
   };
 
+  console.log("updateRegion", (0,_helpers_getRegiones__WEBPACK_IMPORTED_MODULE_1__.default)());
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("select", null, validar.map(function (regiones) {
     return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("option", {
       value: regiones.idRegion,
       key: regiones.idRegion
-    }, regiones.nombreregion);
+    }, regiones.nombreRegion);
   }));
 };
 
@@ -2067,6 +2068,7 @@ var getRegiones = /*#__PURE__*/function () {
   };
 }();
 
+console.log("data:", getRegiones());
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (getRegiones);
 
 /***/ }),

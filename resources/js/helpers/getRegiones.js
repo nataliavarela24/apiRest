@@ -4,4 +4,5 @@ const getRegiones = async() =>{
     const data =await res.json();
     return data;
 }
+console.log("data:",getRegiones());
 export default getRegiones;
