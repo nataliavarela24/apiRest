@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Select from './select';
+import Provincia from './provincias'
+import Ciudad from './ciudad'
 import ReactDOM from 'react-dom';
 
 export default class Componente extends Component {
@@ -7,6 +9,9 @@ export default class Componente extends Component {
         return (
             <div className="componente">
               <Select/>
+              <Provincia/>
+              <Ciudad/>
+
             </div>
         );
     }
