@@ -1,0 +1,1732 @@
+[
+  {
+    "idCiudad": 1,
+    "nombreciudad": "Arica",
+    "idProvincia": 1
+  },
+  {
+    "idCiudad": 2,
+    "nombreciudad": "Camarones",
+    "idProvincia": 1
+  },
+  {
+    "idCiudad": 3,
+    "nombreciudad": "Putre",
+    "idProvincia": 2
+  },
+  {
+    "idCiudad": 4,
+    "nombreciudad": "General Lagos",
+    "idProvincia": 2
+  },
+  {
+    "idCiudad": 5,
+    "nombreciudad": "Iquique",
+    "idProvincia": 3
+  },
+  {
+    "idCiudad": 6,
+    "nombreciudad": "Camiña",
+    "idProvincia": 4
+  },
+  {
+    "idCiudad": 7,
+    "nombreciudad": "Colchane",
+    "idProvincia": 4
+  },
+  {
+    "idCiudad": 8,
+    "nombreciudad": "Huara",
+    "idProvincia": 4
+  },
+  {
+    "idCiudad": 9,
+    "nombreciudad": "Pica",
+    "idProvincia": 4
+  },
+  {
+    "idCiudad": 10,
+    "nombreciudad": "Pozo Almonte",
+    "idProvincia": 4
+  },
+  {
+    "idCiudad": 11,
+    "nombreciudad": "Alto Hospicio",
+    "idProvincia": 3
+  },
+  {
+    "idCiudad": 12,
+    "nombreciudad": "Antofagasta",
+    "idProvincia": 5
+  },
+  {
+    "idCiudad": 13,
+    "nombreciudad": "Mejillones",
+    "idProvincia": 5
+  },
+  {
+    "idCiudad": 14,
+    "nombreciudad": "Sierra Gorda",
+    "idProvincia": 5
+  },
+  {
+    "idCiudad": 15,
+    "nombreciudad": "Taltal",
+    "idProvincia": 5
+  },
+  {
+    "idCiudad": 16,
+    "nombreciudad": "Calama",
+    "idProvincia": 6
+  },
+  {
+    "idCiudad": 17,
+    "nombreciudad": "Ollagüe",
+    "idProvincia": 6
+  },
+  {
+    "idCiudad": 18,
+    "nombreciudad": "San Pedro de Atacama",
+    "idProvincia": 6
+  },
+  {
+    "idCiudad": 19,
+    "nombreciudad": "Tocopilla",
+    "idProvincia": 7
+  },
+  {
+    "idCiudad": 20,
+    "nombreciudad": "María Elena",
+    "idProvincia": 7
+  },
+  {
+    "idCiudad": 21,
+    "nombreciudad": "Copiapó",
+    "idProvincia": 8
+  },
+  {
+    "idCiudad": 22,
+    "nombreciudad": "Caldera",
+    "idProvincia": 8
+  },
+  {
+    "idCiudad": 23,
+    "nombreciudad": "Tierra Amarilla",
+    "idProvincia": 8
+  },
+  {
+    "idCiudad": 24,
+    "nombreciudad": "Chañaral",
+    "idProvincia": 9
+  },
+  {
+    "idCiudad": 25,
+    "nombreciudad": "Diego de Almagro",
+    "idProvincia": 9
+  },
+  {
+    "idCiudad": 26,
+    "nombreciudad": "Vallenar",
+    "idProvincia": 10
+  },
+  {
+    "idCiudad": 27,
+    "nombreciudad": "Alto del Carmen",
+    "idProvincia": 10
+  },
+  {
+    "idCiudad": 28,
+    "nombreciudad": "Freirina",
+    "idProvincia": 10
+  },
+  {
+    "idCiudad": 29,
+    "nombreciudad": "Huasco",
+    "idProvincia": 10
+  },
+  {
+    "idCiudad": 30,
+    "nombreciudad": "La Serena",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 31,
+    "nombreciudad": "Coquimbo",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 32,
+    "nombreciudad": "Andacollo",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 33,
+    "nombreciudad": "La Higuera",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 34,
+    "nombreciudad": "Paiguano",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 35,
+    "nombreciudad": "Vicuña",
+    "idProvincia": 11
+  },
+  {
+    "idCiudad": 36,
+    "nombreciudad": "Illapel",
+    "idProvincia": 12
+  },
+  {
+    "idCiudad": 37,
+    "nombreciudad": "Canela",
+    "idProvincia": 12
+  },
+  {
+    "idCiudad": 38,
+    "nombreciudad": "Los Vilos",
+    "idProvincia": 12
+  },
+  {
+    "idCiudad": 39,
+    "nombreciudad": "Salamanca",
+    "idProvincia": 12
+  },
+  {
+    "idCiudad": 40,
+    "nombreciudad": "Ovalle",
+    "idProvincia": 13
+  },
+  {
+    "idCiudad": 41,
+    "nombreciudad": "Combarbalá",
+    "idProvincia": 13
+  },
+  {
+    "idCiudad": 42,
+    "nombreciudad": "Monte Patria",
+    "idProvincia": 13
+  },
+  {
+    "idCiudad": 43,
+    "nombreciudad": "Punitaqui",
+    "idProvincia": 13
+  },
+  {
+    "idCiudad": 44,
+    "nombreciudad": "Río Hurtado",
+    "idProvincia": 13
+  },
+  {
+    "idCiudad": 45,
+    "nombreciudad": "Valparaíso",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 46,
+    "nombreciudad": "Casablanca",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 47,
+    "nombreciudad": "Concón",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 48,
+    "nombreciudad": "Juan Fernández",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 49,
+    "nombreciudad": "Puchuncaví",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 50,
+    "nombreciudad": "Quilpué",
+    "idProvincia": 21
+  },
+  {
+    "idCiudad": 51,
+    "nombreciudad": "Quintero",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 52,
+    "nombreciudad": "Villa Alemana",
+    "idProvincia": 21
+  },
+  {
+    "idCiudad": 53,
+    "nombreciudad": "Viña del Mar",
+    "idProvincia": 14
+  },
+  {
+    "idCiudad": 54,
+    "nombreciudad": "Isla  de Pascua",
+    "idProvincia": 15
+  },
+  {
+    "idCiudad": 55,
+    "nombreciudad": "Los Andes",
+    "idProvincia": 16
+  },
+  {
+    "idCiudad": 56,
+    "nombreciudad": "Calle Larga",
+    "idProvincia": 16
+  },
+  {
+    "idCiudad": 57,
+    "nombreciudad": "Rinconada",
+    "idProvincia": 16
+  },
+  {
+    "idCiudad": 58,
+    "nombreciudad": "San Esteban",
+    "idProvincia": 16
+  },
+  {
+    "idCiudad": 59,
+    "nombreciudad": "La Ligua",
+    "idProvincia": 17
+  },
+  {
+    "idCiudad": 60,
+    "nombreciudad": "Cabildo",
+    "idProvincia": 17
+  },
+  {
+    "idCiudad": 61,
+    "nombreciudad": "Papudo",
+    "idProvincia": 17
+  },
+  {
+    "idCiudad": 62,
+    "nombreciudad": "Petorca",
+    "idProvincia": 17
+  },
+  {
+    "idCiudad": 63,
+    "nombreciudad": "Zapallar",
+    "idProvincia": 17
+  },
+  {
+    "idCiudad": 64,
+    "nombreciudad": "Quillota",
+    "idProvincia": 18
+  },
+  {
+    "idCiudad": 65,
+    "nombreciudad": "Calera",
+    "idProvincia": 18
+  },
+  {
+    "idCiudad": 66,
+    "nombreciudad": "Hijuelas",
+    "idProvincia": 18
+  },
+  {
+    "idCiudad": 67,
+    "nombreciudad": "La Cruz",
+    "idProvincia": 18
+  },
+  {
+    "idCiudad": 68,
+    "nombreciudad": "Limache",
+    "idProvincia": 21
+  },
+  {
+    "idCiudad": 69,
+    "nombreciudad": "Nogales",
+    "idProvincia": 18
+  },
+  {
+    "idCiudad": 70,
+    "nombreciudad": "Olmué",
+    "idProvincia": 21
+  },
+  {
+    "idCiudad": 71,
+    "nombreciudad": "San Antonio",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 72,
+    "nombreciudad": "Algarrobo",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 73,
+    "nombreciudad": "Cartagena",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 74,
+    "nombreciudad": "El Quisco",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 75,
+    "nombreciudad": "El Tabo",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 76,
+    "nombreciudad": "Santo Domingo",
+    "idProvincia": 19
+  },
+  {
+    "idCiudad": 77,
+    "nombreciudad": "San Felipe",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 78,
+    "nombreciudad": "Catemu",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 79,
+    "nombreciudad": "Llaillay",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 80,
+    "nombreciudad": "Panquehue",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 81,
+    "nombreciudad": "Putaendo",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 82,
+    "nombreciudad": "Santa María",
+    "idProvincia": 20
+  },
+  {
+    "idCiudad": 83,
+    "nombreciudad": "Rancagua",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 84,
+    "nombreciudad": "Codegua",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 85,
+    "nombreciudad": "Coinco",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 86,
+    "nombreciudad": "Coltauco",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 87,
+    "nombreciudad": "Doñihue",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 88,
+    "nombreciudad": "Graneros",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 89,
+    "nombreciudad": "Las Cabras",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 90,
+    "nombreciudad": "Machalí",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 91,
+    "nombreciudad": "Malloa",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 92,
+    "nombreciudad": "Mostazal",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 93,
+    "nombreciudad": "Olivar",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 94,
+    "nombreciudad": "Peumo",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 95,
+    "nombreciudad": "Pichidegua",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 96,
+    "nombreciudad": "Quinta de Tilcoco",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 97,
+    "nombreciudad": "Rengo",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 98,
+    "nombreciudad": "Requínoa",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 99,
+    "nombreciudad": "San Vicente",
+    "idProvincia": 22
+  },
+  {
+    "idCiudad": 100,
+    "nombreciudad": "Pichilemu",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 101,
+    "nombreciudad": "La Estrella",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 102,
+    "nombreciudad": "Litueche",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 103,
+    "nombreciudad": "Marchihue",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 104,
+    "nombreciudad": "Navidad",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 105,
+    "nombreciudad": "Paredones",
+    "idProvincia": 23
+  },
+  {
+    "idCiudad": 106,
+    "nombreciudad": "San Fernando",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 107,
+    "nombreciudad": "Chépica",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 108,
+    "nombreciudad": "Chimbarongo",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 109,
+    "nombreciudad": "Lolol",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 110,
+    "nombreciudad": "Nancagua",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 111,
+    "nombreciudad": "Palmilla",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 112,
+    "nombreciudad": "Peralillo",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 113,
+    "nombreciudad": "Placilla",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 114,
+    "nombreciudad": "Pumanque",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 115,
+    "nombreciudad": "Santa Cruz",
+    "idProvincia": 24
+  },
+  {
+    "idCiudad": 116,
+    "nombreciudad": "Talca",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 117,
+    "nombreciudad": "Constitución",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 118,
+    "nombreciudad": "Curepto",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 119,
+    "nombreciudad": "Empedrado",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 120,
+    "nombreciudad": "Maule",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 121,
+    "nombreciudad": "Pelarco",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 122,
+    "nombreciudad": "Pencahue",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 123,
+    "nombreciudad": "Río Claro",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 124,
+    "nombreciudad": "San Clemente",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 125,
+    "nombreciudad": "San Rafael",
+    "idProvincia": 25
+  },
+  {
+    "idCiudad": 126,
+    "nombreciudad": "Cauquenes",
+    "idProvincia": 26
+  },
+  {
+    "idCiudad": 127,
+    "nombreciudad": "Chanco",
+    "idProvincia": 26
+  },
+  {
+    "idCiudad": 128,
+    "nombreciudad": "Pelluhue",
+    "idProvincia": 26
+  },
+  {
+    "idCiudad": 129,
+    "nombreciudad": "Curicó",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 130,
+    "nombreciudad": "Hualañé",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 131,
+    "nombreciudad": "Licantén",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 132,
+    "nombreciudad": "Molina",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 133,
+    "nombreciudad": "Rauco",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 134,
+    "nombreciudad": "Romeral",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 135,
+    "nombreciudad": "Sagrada Familia",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 136,
+    "nombreciudad": "Teno",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 137,
+    "nombreciudad": "Vichuquén",
+    "idProvincia": 27
+  },
+  {
+    "idCiudad": 138,
+    "nombreciudad": "Linares",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 139,
+    "nombreciudad": "Colbún",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 140,
+    "nombreciudad": "Longaví",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 141,
+    "nombreciudad": "Parral",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 142,
+    "nombreciudad": "Retiro",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 143,
+    "nombreciudad": "San Javier",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 144,
+    "nombreciudad": "Villa Alegre",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 145,
+    "nombreciudad": "Yerbas Buenas",
+    "idProvincia": 28
+  },
+  {
+    "idCiudad": 146,
+    "nombreciudad": "Concepción",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 147,
+    "nombreciudad": "Coronel",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 148,
+    "nombreciudad": "Chiguayante",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 149,
+    "nombreciudad": "Florida",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 150,
+    "nombreciudad": "Hualqui",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 151,
+    "nombreciudad": "Lota",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 152,
+    "nombreciudad": "Penco",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 153,
+    "nombreciudad": "San Pedro de la Paz",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 154,
+    "nombreciudad": "Santa Juana",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 155,
+    "nombreciudad": "Talcahuano",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 156,
+    "nombreciudad": "Tomé",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 157,
+    "nombreciudad": "Hualpén",
+    "idProvincia": 29
+  },
+  {
+    "idCiudad": 158,
+    "nombreciudad": "Lebu",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 159,
+    "nombreciudad": "Arauco",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 160,
+    "nombreciudad": "Cañete",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 161,
+    "nombreciudad": "Contulmo",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 162,
+    "nombreciudad": "Curanilahue",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 163,
+    "nombreciudad": "Los Álamos",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 164,
+    "nombreciudad": "Tirúa",
+    "idProvincia": 30
+  },
+  {
+    "idCiudad": 165,
+    "nombreciudad": "Los Ángeles",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 166,
+    "nombreciudad": "Antuco",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 167,
+    "nombreciudad": "Cabrero",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 168,
+    "nombreciudad": "Laja",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 169,
+    "nombreciudad": "Mulchén",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 170,
+    "nombreciudad": "Nacimiento",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 171,
+    "nombreciudad": "Negrete",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 172,
+    "nombreciudad": "Quilaco",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 173,
+    "nombreciudad": "Quilleco",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 174,
+    "nombreciudad": "San Rosendo",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 175,
+    "nombreciudad": "Santa Bárbara",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 176,
+    "nombreciudad": "Tucapel",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 177,
+    "nombreciudad": "Yumbel",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 178,
+    "nombreciudad": "Alto Biobío",
+    "idProvincia": 31
+  },
+  {
+    "idCiudad": 179,
+    "nombreciudad": "Chillán",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 180,
+    "nombreciudad": "Bulnes",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 181,
+    "nombreciudad": "Cobquecura",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 182,
+    "nombreciudad": "Coelemu",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 183,
+    "nombreciudad": "Coihueco",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 184,
+    "nombreciudad": "Chillán Viejo",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 185,
+    "nombreciudad": "El Carmen",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 186,
+    "nombreciudad": "Ninhue",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 187,
+    "nombreciudad": "Ñiquén",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 188,
+    "nombreciudad": "Pemuco",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 189,
+    "nombreciudad": "Pinto",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 190,
+    "nombreciudad": "Portezuelo",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 191,
+    "nombreciudad": "Quillón",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 192,
+    "nombreciudad": "Quirihue",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 193,
+    "nombreciudad": "Ránquil",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 194,
+    "nombreciudad": "San Carlos",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 195,
+    "nombreciudad": "San Fabián",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 196,
+    "nombreciudad": "San Ignacio",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 197,
+    "nombreciudad": "San Nicolás",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 198,
+    "nombreciudad": "Treguaco",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 199,
+    "nombreciudad": "Yungay",
+    "idProvincia": 32
+  },
+  {
+    "idCiudad": 200,
+    "nombreciudad": "Temuco",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 201,
+    "nombreciudad": "Carahue",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 202,
+    "nombreciudad": "Cunco",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 203,
+    "nombreciudad": "Curarrehue",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 204,
+    "nombreciudad": "Freire",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 205,
+    "nombreciudad": "Galvarino",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 206,
+    "nombreciudad": "Gorbea",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 207,
+    "nombreciudad": "Lautaro",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 208,
+    "nombreciudad": "Loncoche",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 209,
+    "nombreciudad": "Melipeuco",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 210,
+    "nombreciudad": "Nueva Imperial",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 211,
+    "nombreciudad": "Padre Las Casas",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 212,
+    "nombreciudad": "Perquenco",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 213,
+    "nombreciudad": "Pitrufquén",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 214,
+    "nombreciudad": "Pucón",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 215,
+    "nombreciudad": "Saavedra",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 216,
+    "nombreciudad": "Teodoro Schmidt",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 217,
+    "nombreciudad": "Toltén",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 218,
+    "nombreciudad": "Vilcún",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 219,
+    "nombreciudad": "Villarrica",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 220,
+    "nombreciudad": "Cholchol",
+    "idProvincia": 33
+  },
+  {
+    "idCiudad": 221,
+    "nombreciudad": "Angol",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 222,
+    "nombreciudad": "Collipulli",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 223,
+    "nombreciudad": "Curacautín",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 224,
+    "nombreciudad": "Ercilla",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 225,
+    "nombreciudad": "Lonquimay",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 226,
+    "nombreciudad": "Los Sauces",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 227,
+    "nombreciudad": "Lumaco",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 228,
+    "nombreciudad": "Purén",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 229,
+    "nombreciudad": "Renaico",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 230,
+    "nombreciudad": "Traiguén",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 231,
+    "nombreciudad": "Victoria",
+    "idProvincia": 34
+  },
+  {
+    "idCiudad": 232,
+    "nombreciudad": "Valdivia",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 233,
+    "nombreciudad": "Corral",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 234,
+    "nombreciudad": "Futrono",
+    "idProvincia": 36
+  },
+  {
+    "idCiudad": 235,
+    "nombreciudad": "La Unión",
+    "idProvincia": 36
+  },
+  {
+    "idCiudad": 236,
+    "nombreciudad": "Lago Ranco",
+    "idProvincia": 36
+  },
+  {
+    "idCiudad": 237,
+    "nombreciudad": "Lanco",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 238,
+    "nombreciudad": "Los Lagos",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 239,
+    "nombreciudad": "Máfil",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 240,
+    "nombreciudad": "Mariquina",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 241,
+    "nombreciudad": "Paillaco",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 242,
+    "nombreciudad": "Panguipulli",
+    "idProvincia": 35
+  },
+  {
+    "idCiudad": 243,
+    "nombreciudad": "Río Bueno",
+    "idProvincia": 36
+  },
+  {
+    "idCiudad": 244,
+    "nombreciudad": "Puerto Montt",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 245,
+    "nombreciudad": "Calbuco",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 246,
+    "nombreciudad": "Cochamó",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 247,
+    "nombreciudad": "Fresia",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 248,
+    "nombreciudad": "Frutillar",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 249,
+    "nombreciudad": "Los Muermos",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 250,
+    "nombreciudad": "Llanquihue",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 251,
+    "nombreciudad": "Maullín",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 252,
+    "nombreciudad": "Puerto Varas",
+    "idProvincia": 37
+  },
+  {
+    "idCiudad": 253,
+    "nombreciudad": "Castro",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 254,
+    "nombreciudad": "Ancud",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 255,
+    "nombreciudad": "Chonchi",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 256,
+    "nombreciudad": "Curaco de Vélez",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 257,
+    "nombreciudad": "Dalcahue",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 258,
+    "nombreciudad": "Puqueldón",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 259,
+    "nombreciudad": "Queilén",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 260,
+    "nombreciudad": "Quellón",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 261,
+    "nombreciudad": "Quemchi",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 262,
+    "nombreciudad": "Quinchao",
+    "idProvincia": 38
+  },
+  {
+    "idCiudad": 263,
+    "nombreciudad": "Osorno",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 264,
+    "nombreciudad": "Puerto Octay",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 265,
+    "nombreciudad": "Purranque",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 266,
+    "nombreciudad": "Puyehue",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 267,
+    "nombreciudad": "Río Negro",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 268,
+    "nombreciudad": "San Juan de la Costa",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 269,
+    "nombreciudad": "San Pablo",
+    "idProvincia": 39
+  },
+  {
+    "idCiudad": 270,
+    "nombreciudad": "Chaitén",
+    "idProvincia": 40
+  },
+  {
+    "idCiudad": 271,
+    "nombreciudad": "Futaleufú",
+    "idProvincia": 40
+  },
+  {
+    "idCiudad": 272,
+    "nombreciudad": "Hualaihué",
+    "idProvincia": 40
+  },
+  {
+    "idCiudad": 273,
+    "nombreciudad": "Palena",
+    "idProvincia": 40
+  },
+  {
+    "idCiudad": 274,
+    "nombreciudad": "Coihaique",
+    "idProvincia": 41
+  },
+  {
+    "idCiudad": 275,
+    "nombreciudad": "Lago Verde",
+    "idProvincia": 41
+  },
+  {
+    "idCiudad": 276,
+    "nombreciudad": "Aisén",
+    "idProvincia": 42
+  },
+  {
+    "idCiudad": 277,
+    "nombreciudad": "Cisnes",
+    "idProvincia": 42
+  },
+  {
+    "idCiudad": 278,
+    "nombreciudad": "Guaitecas",
+    "idProvincia": 42
+  },
+  {
+    "idCiudad": 279,
+    "nombreciudad": "Cochrane",
+    "idProvincia": 43
+  },
+  {
+    "idCiudad": 280,
+    "nombreciudad": "O'Higgins",
+    "idProvincia": 43
+  },
+  {
+    "idCiudad": 281,
+    "nombreciudad": "Tortel",
+    "idProvincia": 43
+  },
+  {
+    "idCiudad": 282,
+    "nombreciudad": "Chile Chico",
+    "idProvincia": 44
+  },
+  {
+    "idCiudad": 283,
+    "nombreciudad": "Río Ibáñez",
+    "idProvincia": 44
+  },
+  {
+    "idCiudad": 284,
+    "nombreciudad": "Punta Arenas",
+    "idProvincia": 45
+  },
+  {
+    "idCiudad": 285,
+    "nombreciudad": "Laguna Blanca",
+    "idProvincia": 45
+  },
+  {
+    "idCiudad": 286,
+    "nombreciudad": "Río Verde",
+    "idProvincia": 45
+  },
+  {
+    "idCiudad": 287,
+    "nombreciudad": "San Gregorio",
+    "idProvincia": 45
+  },
+  {
+    "idCiudad": 288,
+    "nombreciudad": "Cabo de Hornos",
+    "idProvincia": 46
+  },
+  {
+    "idCiudad": 289,
+    "nombreciudad": "Antártica",
+    "idProvincia": 46
+  },
+  {
+    "idCiudad": 290,
+    "nombreciudad": "Porvenir",
+    "idProvincia": 47
+  },
+  {
+    "idCiudad": 291,
+    "nombreciudad": "Primavera",
+    "idProvincia": 47
+  },
+  {
+    "idCiudad": 292,
+    "nombreciudad": "Timaukel",
+    "idProvincia": 47
+  },
+  {
+    "idCiudad": 293,
+    "nombreciudad": "Natales",
+    "idProvincia": 48
+  },
+  {
+    "idCiudad": 294,
+    "nombreciudad": "Torres del Paine",
+    "idProvincia": 48
+  },
+  {
+    "idCiudad": 295,
+    "nombreciudad": "Santiago",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 296,
+    "nombreciudad": "Cerrillos",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 297,
+    "nombreciudad": "Cerro Navia",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 298,
+    "nombreciudad": "Conchalí",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 299,
+    "nombreciudad": "El Bosque",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 300,
+    "nombreciudad": "Estación Central",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 301,
+    "nombreciudad": "Huechuraba",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 302,
+    "nombreciudad": "Independencia",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 303,
+    "nombreciudad": "La Cisterna",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 304,
+    "nombreciudad": "La Florida",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 305,
+    "nombreciudad": "La Granja",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 306,
+    "nombreciudad": "La Pintana",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 307,
+    "nombreciudad": "La Reina",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 308,
+    "nombreciudad": "Las Condes",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 309,
+    "nombreciudad": "Lo Barnechea",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 310,
+    "nombreciudad": "Lo Espejo",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 311,
+    "nombreciudad": "Lo Prado",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 312,
+    "nombreciudad": "Macul",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 313,
+    "nombreciudad": "Maipú",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 314,
+    "nombreciudad": "Ñuñoa",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 315,
+    "nombreciudad": "Pedro Aguirre Cerda",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 316,
+    "nombreciudad": "Peñalolén",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 317,
+    "nombreciudad": "Providencia",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 318,
+    "nombreciudad": "Pudahuel",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 319,
+    "nombreciudad": "Quilicura",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 320,
+    "nombreciudad": "Quinta Normal",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 321,
+    "nombreciudad": "Recoleta",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 322,
+    "nombreciudad": "Renca",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 323,
+    "nombreciudad": "San Joaquín",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 324,
+    "nombreciudad": "San Miguel",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 325,
+    "nombreciudad": "San Ramón",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 326,
+    "nombreciudad": "Vitacura",
+    "idProvincia": 49
+  },
+  {
+    "idCiudad": 327,
+    "nombreciudad": "Puente Alto",
+    "idProvincia": 50
+  },
+  {
+    "idCiudad": 328,
+    "nombreciudad": "Pirque",
+    "idProvincia": 50
+  },
+  {
+    "idCiudad": 329,
+    "nombreciudad": "San José de Maipo",
+    "idProvincia": 50
+  },
+  {
+    "idCiudad": 330,
+    "nombreciudad": "Colina",
+    "idProvincia": 51
+  },
+  {
+    "idCiudad": 331,
+    "nombreciudad": "Lampa",
+    "idProvincia": 51
+  },
+  {
+    "idCiudad": 332,
+    "nombreciudad": "Tiltil",
+    "idProvincia": 51
+  },
+  {
+    "idCiudad": 333,
+    "nombreciudad": "San Bernardo",
+    "idProvincia": 52
+  },
+  {
+    "idCiudad": 334,
+    "nombreciudad": "Buin",
+    "idProvincia": 52
+  },
+  {
+    "idCiudad": 335,
+    "nombreciudad": "Calera de Tango",
+    "idProvincia": 52
+  },
+  {
+    "idCiudad": 336,
+    "nombreciudad": "Paine",
+    "idProvincia": 52
+  },
+  {
+    "idCiudad": 337,
+    "nombreciudad": "Melipilla",
+    "idProvincia": 53
+  },
+  {
+    "idCiudad": 338,
+    "nombreciudad": "Alhué",
+    "idProvincia": 53
+  },
+  {
+    "idCiudad": 339,
+    "nombreciudad": "Curacaví",
+    "idProvincia": 53
+  },
+  {
+    "idCiudad": 340,
+    "nombreciudad": "María Pinto",
+    "idProvincia": 53
+  },
+  {
+    "idCiudad": 341,
+    "nombreciudad": "San Pedro",
+    "idProvincia": 53
+  },
+  {
+    "idCiudad": 342,
+    "nombreciudad": "Talagante",
+    "idProvincia": 54
+  },
+  {
+    "idCiudad": 343,
+    "nombreciudad": "El Monte",
+    "idProvincia": 54
+  },
+  {
+    "idCiudad": 344,
+    "nombreciudad": "Isla de Maipo",
+    "idProvincia": 54
+  },
+  {
+    "idCiudad": 345,
+    "nombreciudad": "Padre Hurtado",
+    "idProvincia": 54
+  },
+  {
+    "idCiudad": 346,
+    "nombreciudad": "Peñaflor",
+    "idProvincia": 54
+  }
+]

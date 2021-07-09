@@ -17,6 +17,8 @@ class Ciudad extends Migration
             $table->engine = 'InnoDB';
             $table->increments('idCiudad');
             $table->string('nombreciudad',100);
+            $table->integer('idProvincia')->unsigned(); 
+            $table->foreign('idProvincia')->references('idProvincia')->on('provincias');
         });
     }
 

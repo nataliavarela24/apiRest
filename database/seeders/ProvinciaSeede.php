@@ -14,9 +14,7 @@ class ProvinciaSeede extends Seeder
      */
     public function run()
     {
-         //$json = File::get(__DIR__ . '/json/provinciatest.json');
-      $json = storage_path('json/provinciatest.json');
-      //$data = json_decode($json);
+      $json = storage_path('json/provinciajson.json');
       $data = json_decode(file_get_contents($json), true); 
 
       foreach($data as $item) {

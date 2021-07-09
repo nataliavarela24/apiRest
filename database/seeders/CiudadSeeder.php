@@ -14,13 +14,14 @@ class CiudadSeeder extends Seeder
      */
     public function run()
     {
-        $json = storage_path('json/ciudad.json');
+        $json = storage_path('json/ciudadjson.json');
         $data = json_decode(file_get_contents($json), true); 
   
         foreach($data as $item) {
           DB::table('ciudades')->insert(array(
              'idCiudad' => $item['idCiudad'],
              'nombreciudad' => $item['nombreciudad'],
+             'idProvincia' => $item['idProvincia'],
           ));
         }   
     }
