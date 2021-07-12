@@ -1,8 +1,13 @@
 const getRegiones = async() =>{
-    const url ="http://127.0.0.1:8000/api/regiones";
+    const url ="http://localhost:8080/api/regiones";
     const res = await fetch(url);
     const data =await res.json();
-    return data;
+
+    const {regiones=[region]}=data;
+    const region1={
+        region,
+    }
+    return region1;
 }
 console.log("data:",getRegiones());
 export default getRegiones;

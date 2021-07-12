@@ -2160,7 +2160,7 @@ var getCiudades = /*#__PURE__*/function () {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
-            url = "http://127.0.0.1:8000/api/ciudades";
+            url = "http://localhost:8080/api/ciudades";
             _context.next = 3;
             return fetch(url);
 
@@ -2217,7 +2217,7 @@ var getProvincias = /*#__PURE__*/function () {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
-            url = "http://127.0.0.1:8000/api/provincias";
+            url = "http://localhost:8080/api/provincias";
             _context.next = 3;
             return fetch(url);
 
@@ -2269,12 +2269,13 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 var getRegiones = /*#__PURE__*/function () {
   var _ref = _asyncToGenerator( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
-    var url, res, data;
+    var url, res, data, _data$regiones, regiones, region1;
+
     return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
-            url = "http://127.0.0.1:8000/api/regiones";
+            url = "http://localhost:8080/api/regiones";
             _context.next = 3;
             return fetch(url);
 
@@ -2285,9 +2286,13 @@ var getRegiones = /*#__PURE__*/function () {
 
           case 6:
             data = _context.sent;
-            return _context.abrupt("return", data);
+            _data$regiones = data.regiones, regiones = _data$regiones === void 0 ? [region] : _data$regiones;
+            region1 = {
+              region: region
+            };
+            return _context.abrupt("return", region1);
 
-          case 8:
+          case 10:
           case "end":
             return _context.stop();
         }
