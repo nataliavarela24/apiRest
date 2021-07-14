@@ -13,6 +13,9 @@ const Select = () => {
         .then((newregiones) => {
             setValidar(newregiones);
         })
+        .catch((error) => {
+            console.log(error);
+          })
     }
     console.log("updateRegion",getRegiones());
     
